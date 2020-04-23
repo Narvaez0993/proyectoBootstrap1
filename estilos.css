@@ -1,0 +1,89 @@
+header .col-12 {
+    background-color: bisque;
+}
+
+section{
+    background-color: darkgrey;
+}
+
+.links{
+    margin-left: 20px; 
+}
+
+.colordecajas{
+    background-color: white;
+}
+
+.confcaja{
+    
+    width: 400px;
+    height: 370px;
+    position: relative;
+    
+    
+}
+
+.confcaja2{
+    width: 400px;
+    height: 370px;
+    position: relative;
+    
+   
+}
+
+.widget{
+    margin-top: 50px;
+}
+.footer{
+    background-color: bisque;
+}
+footer{
+    background-color: bisque;
+    font-size: 24px;
+    text-align: center;
+    height:300px;
+    color: crimson;
+    padding-top: 100px;
+}
+
+.texto{
+    margin-left: 15px;
+    text-align: justify;
+}
+.p2{
+    text-align: justify;
+}
+h1{
+    margin-left: 5px;
+}
+
+
+@media screen and (max-width:768px){
+    .h2 {
+        text-align: center;
+    }
+    .links{
+        margin-left:63px;}
+
+    .links2{
+     margin-left: 310px;
+       }  
+    section{
+        background-color: white;
+    }   
+    h3{
+        text-align: center;
+    }
+    .p1{
+        margin-left: 12px;
+        margin-right:12px;
+    }
+    
+       
+
+
+
+
+
+
+}
